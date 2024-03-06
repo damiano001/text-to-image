@@ -1,4 +1,4 @@
 ## Stable Diffusion
 
-Prompt: "a cat"
+Prompt: "a cat" //
 ![Alt image](result.png)
